@@ -17,11 +17,8 @@ c) Using skimage to convert images to grayscale
 d) Using keras to create a network comprimising of:
 </br>
    - 2 Convolutional layers
-</br>
    - 2 MLP layers
-</br>
    - 2 MaxPooling layers (Kernel size = 5 x 5)
-</br>
    - Softmax output layer
 </br>
 </br>
